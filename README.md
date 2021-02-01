@@ -1,5 +1,5 @@
-# -Descartes_Underwriting
-## -Test technique
+# Descartes_Underwriting
+## Test technique
 
 Descartes Underwriting test - Model generation.ipynb : Notebook avec lequel j'ai créé le modèle à partir des données de train_auto.csv
 descartes_underwriting_model.pkl : le modèle de classification
